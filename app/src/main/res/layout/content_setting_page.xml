@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="160dp"
         android:layout_marginTop="160dp"
-        android:backgroundTint="#ADD8E6"
+        android:backgroundTint="#EBEBEB"
         android:text="Blue"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -69,7 +69,8 @@
         android:id="@+id/switch1"
         android:layout_width="123dp"
         android:layout_height="30dp"
-        android:layout_marginStart="40dp"
+        android:layout_marginStart="45dp"
+        android:fontFamily="sans-serif"
         android:scrollbarSize="4dp"
         android:text="Bold Text"
         android:textSize="18sp"
