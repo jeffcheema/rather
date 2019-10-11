@@ -7,9 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d97c64b-b45d-4472-9806-2dafa7e816b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/content_setting_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/content_setting_page.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,12 @@
               <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_home.xml">
+          <provider editor-type-id="text-editor" />
           <provider selected="true" editor-type-id="android-designer2" />
         </entry>
       </file>
@@ -79,7 +83,28 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="AndroidView" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rather" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="rather" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="rather" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -189,7 +214,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2033557" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2033557" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -236,16 +261,20 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_home.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_main.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/content_setting_page.xml">
